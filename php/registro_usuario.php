@@ -40,7 +40,7 @@
      if($ejecutar){
         echo'
         <script>
-      
+        alert("Registro exitoso!");
         window.location = "../PWebDJ-master1/index.php";
         </script>
         ';

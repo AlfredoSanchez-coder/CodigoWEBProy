@@ -48,7 +48,7 @@ if($varsesion==null || $varsesion='' /*|| $varse==null || $varse=''*/){
     <header class="header_section">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
-          <a class="navbar-brand" href="inde.php">
+          <a class="navbar-brand">
             <img src="images/logo.png" alt="">
             <span>
               ELECTRO FEST
@@ -62,18 +62,6 @@ if($varsesion==null || $varsesion='' /*|| $varse==null || $varse=''*/){
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div class="d-flex mx-auto flex-column flex-lg-row align-items-center">
               <ul class="navbar-nav  ">
-                <li class="nav-item active">
-                  <a class="nav-link" href="inde.php">Inicio<span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="infoEventos.php">Eventos</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="contrato.php">Contratación</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="comprobante.php">Comprobante</a>
-                </li>
                 <li class="nav-item">
                   <a class="nav-link" href="../php/cerrar_se.php">Cerrar sesion</a>
                 </li>

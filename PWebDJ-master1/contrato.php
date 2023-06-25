@@ -56,14 +56,14 @@
                   <a class="nav-link" href="inde.php">Inicio<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="InfoEventos.html">Eventos</a>
+                  <a class="nav-link" href="infoEventos.php">Eventos</a>
                 </li>
                 
                 <li class="nav-item">
                   <a class="nav-link" href="contrato.php">Contratación</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="comprobante.html">Comprobante</a>
+                  <a class="nav-link" href="comprobante.php">Comprobante</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="../php/cerrar_se.php">Cerrar sesion</a>

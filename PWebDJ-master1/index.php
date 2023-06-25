@@ -97,10 +97,11 @@
           <button >Entrar</button>
          </form>
          <!--Registro-->
+          </script>
          <form action="../php/registro_usuario.php" method="POST" class="formulario_reg">
           <h2>Registrarse</h2>
           <input type="text" placeholder="Nombre completo" required="" name="nombre_completo">
-          <input type="text" placeholder="Correo electronico" required="" name="correo">
+          <input type="email" placeholder="Correo electronico" required="" name="correo">
           <input type="text" placeholder="usuario" required="" name="usuario">
           <input type="password" placeholder="Contraseña"required="" name="contrasena">
           <button>Registrarse</button>
